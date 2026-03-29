@@ -35,9 +35,7 @@ This project is an end-to-end Machine Learning application that detects whether 
 ## 🛠️ Installation & Run
 
 ### 1. Clone the repository
-```bash
-git clone https://github.com/YOUR_USERNAME/fraud-detection.git
-cd fraud-detection
+
 ````
 
 ### 2. Create virtual environment
@@ -82,25 +80,3 @@ http://127.0.0.1:5000/
 * Fintech applications
 
 ---
-
-
----
-
-
-
-
-
-
-
-````
-
----
-
-
-
-
-
----
-
-👉 Tell me:
-**“requirements.txt”** or **“deploy project”** 🚀
